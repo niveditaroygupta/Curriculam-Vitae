@@ -1,0 +1,23 @@
+
+body{
+  background-color: #EFFFFD;
+  border: 1px solid;
+}
+h1{
+  text-decoration: underline;
+  color: #CC9544;
+}
+.nameh1{
+  text-decoration: none;
+  color: #051367;
+}
+.endname{
+  text-align: right;
+}
+.socialmedia{
+  text-align: center;
+  padding: 2% 15%;
+}
+.social-media {
+  margin: 20px 10px;
+}
